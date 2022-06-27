@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'a Asian Hiro';
+    src: url('aAsianHiro.eot');
+    src: url('aAsianHiro.eot?#iefix') format('embedded-opentype'),
+        url('aAsianHiro.woff2') format('woff2'),
+        url('aAsianHiro.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
